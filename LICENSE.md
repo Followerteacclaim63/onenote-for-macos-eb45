@@ -1,4 +1,4 @@
-#  
+#  OneNote for macOS elite Script: export to PDF & auto-sync is the best OneNote for macOS script, featuring export to PDF and auto-sync. Safe, efficient, and optimized for macOS
 
 
 
